@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# Product List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The project builds a product list assigned to different categories by  creating components, using props and state. It also uses by adding map, filter, and reduce functions.
 
+<img width="1440" alt="Screen Shot 2024-01-30 at 1 10 23 PM" src="https://github.com/ParulK-bhardwaj/react-list/assets/111934039/15e1c4bc-1e18-4f36-aeaa-4871c912dafb">
+
+<img width="1389" alt="image" src="https://github.com/ParulK-bhardwaj/react-list/assets/111934039/5bb6baa1-ea3e-40ee-a82b-698d08a8f61b">
 ## Available Scripts
 
 In the project directory, you can run:
