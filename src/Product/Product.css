@@ -1,0 +1,36 @@
+.product {
+    border: 5px solid #042989; 
+    padding: 1em; 
+    background-color: #dfe1e7;
+    color: black;
+}
+  
+.pname {
+    font-size: 1em;
+    font-weight: bolder;
+    color: rgb(12, 19, 219);
+}
+
+.pprice {
+    font-size: 0.8em;
+    font-weight: bold;
+    color: rgb(2, 118, 29);
+}
+  
+.pcat {
+    font-size: 0.7em;
+    font-weight:600;
+    color: rgb(13, 0, 13);
+}
+
+.punits {
+    font-size: 0.6em;
+}
+
+.prating {
+    color: green;
+}
+
+.disabled {
+    background-color: grey;
+}
